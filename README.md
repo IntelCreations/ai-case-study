@@ -1,1 +1,40 @@
-# ai-case-study
+# Cognition Labs Presents Devin: The World's First Fully Autonomous AI Software Engineer
+## Overview and Origin
+* Name of company - [Cognition Labs] (https://www.cognition-labs.com)
+* When was the company incorporated? 2023
+* Who are the founders of the company? Scott Wu (CEO), Steven Hao (CTO), Walden Yang (Chief Product Engineer)
+* How did the idea for the company (or project) come about? The idea is from a combination of leading AI-research, the founders' experience in competitive programming and artificial intelligence.
+* How is the company funded? How much funding have they received? Cognition is funded through Founders Fund, raising $21 million Series-A
+## Business Activities
+* What specific problem is the company or project trying to solve? Cognition's Devin aims to make software coding more efficient and accessible by automating routine tasks, thereby enabling developers to focus more on creative and complex problem solving. 
+* Who is the company's intended customer? Is there any information about the market size of this set of customers? The company's intended customer is software developers and software engineering teams seeking to enhance their abilities and make teams more robust.There is no information regarding market size available though Devin has garnered attention and interest from various sectors and industries.
+* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?) Unlike existing models, with Devin, the company offers the ability for complex coding task completion, automation of routine tasks, the ability to learn from the internet, the abiilty to take a project from start to finish autonomously, the ability to learn new technologies, debug problems, can improve based on feedback, has long term reasoning and planning abilities, and train its own models.
+* Which technologies are they currently using, and how are they implementing them? Cognition's Devin uses a sandboxed compute environment with simple development tools such as shell, code, editor, and browser.  These are used to perform similarly to a human, however, Devin is capable of handling complex tasks such as GitHub issues with a hgiher success rate than current models.
+## Landscape
+* What field is the company in? Technology, Artificial Intelligence
+* What have been the major trends and innovations of this field over the last 5 - 10 years? There have been significant strides in innovation in the field of Artificial Intelligence & Technology with advancements in the machine learning and artificial intelligence, allowing developers to integrate these into their development. Advances in automation, debugging, and generating code based on natural language has improved substantially in both efficiency and accessibility. Natural language processing has become more advanced, paving the way for the likes of GPT (Generative Pretrained Transformer), which can generate text in a human-like manner. AI Assistants grew out of such advancements providing the ability to write code, documentation, assist with problem solving, provide advice and more. Additionally, advancements in cloud computing has led to the development of software that is more easily scaled and flexible. Developers can use cloud-based AI tools and platforms for coding software with greater efficiency.
+* What are the other major companies in this field? Other major companies in the field include:
+    ***GitHub & GitHub Copilot:*** Microsoft AI and GitHub partnership to provide AI powered coding support       via suggesting coding snippets and even producing entire functions based on the given context.
+    ***Open AI:*** A leader in the field with Gpt-3.5, Gpt-4 generative AI large language models (LLMs). These
+    platforms generate text responses to user input and can be used for support in coding and debugging.
+    ***Google:*** Innovations such as the TensorFlow platform have become widely popular with developers,         enabling them to integrate AI tools into their applications.  Additionally, Google has made significant       investments in machine learning research, further supporting the technology field in advancing. 
+## Results
+* What has been the business impact of this company so far? While it's early to gauge long term business impact, the short term implications indicate a significant impact on efficiency by decreasing the amount of development time. Quality is increased with superior coding ability and debugging. Also, developers are freed up to focus more on strategic initiatives by reducing mundane tasks through automation. 
+* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics? Core metrics used by companies in this field include adoption rate ( number of users or organizations are utilizing the AI); user engagement (the number of users interacting with the AI); accuracy and efficiency (the rate of improvement in these versus with human-driven tasks); customer satisfaction (the rate of satisfied users). Cognition could gain insights into these through use of surveys, user data and analytics, and comparative studies against competing companies. 
+* How is your company performing relative to competitors in the same field? Cognition's Devin outperforms other assistants such as Claude 2, SWE-Llama-13b, and GPT-4 when it comes to handling real-world complex coding tasks without human intervention. Coupled with Devin's ability to take over complete tasks from end to end, this indicates a higher level of understanding and capability, potentially revolutionizing the approach to software development and project management. According to Cognition's X page @cognition_labs:
+> "When evaluated on the SWE-Branch coding benchmark, which asks AI to resolve GitHub issues found in real-world open-source projects, Devin correctly resolves 13.86% of the issues unassisted, far exceeding the previous state-of-the-art model performance of 1.96% unassisted and 4.80% assisted."
+## Recommendations
+* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!) An add-on of code optimization that can code by taking into account the brand voice or user style in creating applications, may further increase the company's competitive edge. 
+* Why do you think that offering this product or service would benefit the company? This would offer a broader range of offerings and potentially to a wider audience as AI outputs are often robotic and less than human-like. The offering would provide the solution of autonomous coding and project management without sacrificing the human element unique to an organization's brand or user's vision.
+* What technologies would this additional product or service utilize? Machine learning, natural language processing, data analytics
+* Why are these technologies appropriate for your solution?![image](https://github.com/IntelCreations/ai-case-study/assets/156395171/d5d9f164-fbc4-4d29-b4ed-8984def4fc68) These technologies are appropriate for my solution because machine learning and natural language processing are necessary to understand the code; analytics are necessary to identify patterns and analyze the code
+
+# Sources:
+* https://www.cognition-labs.com/introducing-devin
+* https://daily.dev/blog/what-is-devin-the-ai-software-engineer-everyone-is-talking-about#:~:text=productivity%20and%20innovation.-,Origins%20and%20Creator,smarter%2C%20especially%20in%20solving%20problems.
+* https://www.maginative.com/article/new-ai-startup-cognition-raises-21m-unveils-autonomous-coding-assistant-devin/
+* https://favtutor.com/articles/devin-ai-founder-team/#:~:text=Wu%2C%20along%20with%20its%20two,in%20a%20matter%20of%20hours.
+* https://builtin.com/artificial-intelligence/artificial-intelligence-future
+* https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/tech-at-the-edge-trends-reshaping-the-future-of-it-and-business
+* https://x.com/cognition_labs?s=20
+* https://news.futuretools.io/meet-devin-the-first-ai-software-engineer-redefining-code/
